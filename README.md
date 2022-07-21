@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Sowmiya-Krishnamurthy
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Full Stack Data Science
+- 💞️ I’m looking to collaborate on Software Developers
